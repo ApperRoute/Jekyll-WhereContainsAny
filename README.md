@@ -1,6 +1,11 @@
 # Jekyll-WhereContainsAny
 A Liquid filter for Jekyll that returns members of a collection where a specified field contains one or more elements of a CSV list
 
+## Installation
+Copy the ```WhereContainsAny.rb``` file into your Jekyll site's plugins folder (usually ```/_plugins```) and celebrate -- you're done!
+
+## Usage Details
+
 ```Gherkin
 
 Scenario: Filter a Liquid collection for items tagged with one or more of a selection of tags
