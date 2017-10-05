@@ -1,4 +1,5 @@
-# Copyright 2017 James Kearney
+#
+# Copyright 2017 James Kearney (@thejameskearney)
 # Released under the GNU General Public License V3 (see LICENSE)
 #
 
